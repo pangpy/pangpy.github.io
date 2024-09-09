@@ -1,1 +1,1 @@
-# pangpy.github.io
+# coding-project-template
